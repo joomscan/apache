@@ -1,5 +1,5 @@
 FROM ubuntu:latest 
-MAINTAINER xiaobao Wilson <yaobaojun@gamewave.net> 
+MAINTAINER Bibin Wilson <bibin.w@hcl.com>
 RUN apt-get update
 RUN apt-get -y upgrade
 RUN apt-get -y install apache2
